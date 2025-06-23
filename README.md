@@ -25,7 +25,8 @@ Here’s a summary of what I did:
 - Duplicate records
 - Inconsistent formats
 - Messy column names
- ** Tools used **
+  
+  Tools used 
 - Python
 - Pandas
 - Google Colab
